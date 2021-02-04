@@ -6,11 +6,11 @@ website: https://github.com/visual-cody
 main: com.visualcody.silktouchhands.main
 api-version: 1.16
 
-permissions:
+permissions:xxXOni GenjiXxx
   silktouchhands.silktouch:
     default: op
     description: Allows a player to silktouch blocks with their bare hands
-  siltouchhands.*:
+  siltouchhands.*: true
     default: op
     children:
       silktouchhands.silktouch: true
